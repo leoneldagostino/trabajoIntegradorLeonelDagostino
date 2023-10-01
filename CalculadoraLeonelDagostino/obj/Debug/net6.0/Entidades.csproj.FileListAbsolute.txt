@@ -1,0 +1,14 @@
+C:\Users\leeon\source\repos\CalculadoraLeonelDagostino\CalculadoraLeonelDagostino\bin\Debug\net6.0\Entidades.exe
+C:\Users\leeon\source\repos\CalculadoraLeonelDagostino\CalculadoraLeonelDagostino\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\leeon\source\repos\CalculadoraLeonelDagostino\CalculadoraLeonelDagostino\bin\Debug\net6.0\Entidades.runtimeconfig.json
+C:\Users\leeon\source\repos\CalculadoraLeonelDagostino\CalculadoraLeonelDagostino\bin\Debug\net6.0\Entidades.dll
+C:\Users\leeon\source\repos\CalculadoraLeonelDagostino\CalculadoraLeonelDagostino\bin\Debug\net6.0\Entidades.pdb
+C:\Users\leeon\source\repos\CalculadoraLeonelDagostino\CalculadoraLeonelDagostino\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leeon\source\repos\CalculadoraLeonelDagostino\CalculadoraLeonelDagostino\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\leeon\source\repos\CalculadoraLeonelDagostino\CalculadoraLeonelDagostino\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\leeon\source\repos\CalculadoraLeonelDagostino\CalculadoraLeonelDagostino\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\leeon\source\repos\CalculadoraLeonelDagostino\CalculadoraLeonelDagostino\obj\Debug\net6.0\Entidades.dll
+C:\Users\leeon\source\repos\CalculadoraLeonelDagostino\CalculadoraLeonelDagostino\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\leeon\source\repos\CalculadoraLeonelDagostino\CalculadoraLeonelDagostino\obj\Debug\net6.0\Entidades.pdb
+C:\Users\leeon\source\repos\CalculadoraLeonelDagostino\CalculadoraLeonelDagostino\obj\Debug\net6.0\Entidades.genruntimeconfig.cache
+C:\Users\leeon\source\repos\CalculadoraLeonelDagostino\CalculadoraLeonelDagostino\obj\Debug\net6.0\ref\Entidades.dll
