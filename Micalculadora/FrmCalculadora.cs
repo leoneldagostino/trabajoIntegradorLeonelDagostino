@@ -30,10 +30,20 @@ namespace Micalculadora
             string op = cmbOperacion.SelectedItem.ToString();
             if (!string.IsNullOrEmpty(op) && op.Length == 1)
             {
-
                 operadorMatematico = op[0];
-                Operacion operacion = new Operacion(primerOperando, segundoOperando);
-                result = operacion.Operar(operadorMatematico);
+                if (operadorMatematico == '/' && (valor1 == 0 || valor2 == 0))
+                {
+                    DialogResult error = MessageBox.Show("No se puede hacer una division con un 0.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    if (error == DialogResult.OK)
+                    { 
+                        //resultado.Text = "";
+                        return;
+                    }
+                    
+                }
+
+                Operacion calculadora = new Operacion(primerOperando, segundoOperando);
+                result = calculadora.Operar(operadorMatematico);
                 setResultado();
             }
         }

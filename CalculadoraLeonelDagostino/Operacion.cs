@@ -54,15 +54,9 @@ namespace Entidades
                         resultado = valor1 * valor2;
                         return new Numeracion(resultado,PrimerOperando.Sistema);
                     case '/':
-                        if (PrimerOperando.Valor == "0" || SegundoOperando.Valor == "0")
-                        {
-                            throw new InvalidOperationException("No se puede divir por 0.");
-                        }
                         resultado = valor1 / valor2;
                         return new Numeracion(resultado, PrimerOperando.Sistema);
-                        
-                        
-                        
+
                     default:
                         resultado = valor1 + valor2;
                         return new Numeracion(resultado, PrimerOperando.Sistema);
